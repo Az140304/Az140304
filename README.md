@@ -7,5 +7,5 @@
   </a>
 </p>
 
-<h2>Check out my project that I've worked on</h2>
-<a href="#">aaaa</a>
+<h2>Favorite project that I've worked on</h2>
+<a href="[#](https://github.com/Az140304/simple-clicker-game)">Simple Clicker Game</a>
