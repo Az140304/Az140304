@@ -1,7 +1,7 @@
 ## 💧 Remember to drink water 💧
 
-I am experienced with ...
-<hr>
+## I am experienced with ...
+<hr style="color: red;">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,html,css,js,bootstrap,laravel,python,tensorflow,java,cpp" />
