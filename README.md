@@ -1,6 +1,6 @@
 ## 💧 Remember to drink water 💧
 
-## I am experienced with ...
+I am experienced with ...
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
