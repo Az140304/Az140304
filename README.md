@@ -8,4 +8,4 @@
 </p>
 
 <h2>Favorite project that I've worked on</h2>
-<a href="[#](https://github.com/Az140304/simple-clicker-game)">Simple Clicker Game</a>
+<a href="https://github.com/Az140304/simple-clicker-game">Simple Clicker Game</a>
