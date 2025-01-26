@@ -1,5 +1,11 @@
-## Hi there 👋
+## 💧 Remember to drink water 💧
 
+## I am experienced with ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,python,bootstrap" />
+  </a>
+</p>
 <!--
 **Az140304/Az140304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
