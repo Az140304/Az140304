@@ -1,9 +1,9 @@
 ## 💧 Remember to drink water 💧
 
-## I am experienced with ...
+<h2>I am experienced with</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,python,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,bootstrap,laravel,python,tensorflow,java,cpp" />
   </a>
 </p>
 <!--
