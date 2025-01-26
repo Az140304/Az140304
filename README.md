@@ -8,7 +8,7 @@
   </a>
 </p>
 <hr>
-## Favorite project that I've worked on
+<h2>Favorite project that I've worked on</h2>
 <br>
 <ul>
   <li><a href="https://github.com/Az140304/simple-clicker-game">Simple Clicker Game</a></li>
